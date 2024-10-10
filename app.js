@@ -19,7 +19,7 @@ if (pastry >= 7){
 
 let sleep = 6; 
 if (sleep <=6) {
-    console.log('you need more sleep' +);
+    console.log('you need more sleep');
 }
 
 
