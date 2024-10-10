@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+    color: rgb(92, 60, 59);
+    background-color: antiquewhite;
+}
+header{
+    background-color: antiquewhite;
+}
+h3{
+    color: rgb(92, 60, 59);
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+body{
+    background-color: rgb(238, 216, 189)
+}
