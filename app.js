@@ -1,4 +1,6 @@
 
+'use strict';
+
 // Function to ask for the user's name
 function yourName() {
     let name = prompt('What is your name?');
@@ -22,8 +24,9 @@ function loveOfpastry() {
     return message;
 }
 
+// Function to check sleep status with user input
 function checkSleep() {
-    let sleep = 6;  // Hardcoded sleep value, could also be a prompt
+    let sleep = prompt('How many hours did you sleep last night?');  // Ask user for sleep hours
     let sleepMessage = '';
     if (sleep <= 6) {
         sleepMessage = 'You need more sleep.';
