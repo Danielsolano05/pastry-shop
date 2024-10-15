@@ -17,8 +17,8 @@ if (pastry >= 7){
     message = 'pastry likeness does not exist';
 }
 
-let sleep = 6; 
-if (sleep <=6) {
+let sleep = 6;
+if (sleep <= 6) {
     console.log('you need more sleep');
 }
 
